@@ -1,0 +1,68 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+#start
+{
+    font-size:18px
+}
+
+#status, #number_of_objects
+{
+    font-size: 18px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+}
+
+.bed
+{
+   width: 150px;
+   height: 150px;
+}
+
+.fridge
+{
+   width: 150px;
+   height: 150px;
+}
+
+.oven
+{
+    width: 150px;
+    height: 150px;
+}
+
+.plant
+{
+    width: 150px;
+    height: 150px;
+}
+
+.table
+{
+    width: 150px;
+    height: 150px;
+}
+
+.car
+{
+    width: 150px;
+    height: 150px;
+}
+
